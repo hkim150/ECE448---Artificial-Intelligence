@@ -1,11 +1,11 @@
 # Constraint Satisfaction Problems
 
 1. Solving Flow Free Solution
-  1.1 Smaller Grid
+  - 1.1 Smaller Grid
     - Minimum Remaining Values
     - Most Constraining Variable
     - Least Constraining Assignment
-  1.2 Bigger Grid
+  - 1.2 Bigger Grid
     - Arc Consistency
     
 2. Game of Breakthrough
