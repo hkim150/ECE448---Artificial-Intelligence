@@ -7,6 +7,11 @@
 - 1.2 Digit Classification with Nearest Neighbor
   - 3NN, 5NN, 7NN
   - Manhattan Distance and different Heuristics
+- Extra Credit
+  - Increased Accuracy with Ternary Features
+  - Weight Visualization
+- Extra Credit 2
+  - Face Data Classification with Perceptrons
 2. Q-Learning (Game of Pong)
 - 2.1 Single Player Pong
   - Q-Function with State, Action, Reward
