@@ -1,6 +1,6 @@
 # Constraint Satisfaction Problems
 
-1. Solving Flow Free Solution
+1. Game of Flow Free Solution
   - 1.1 Smaller Grid
     - Minimum Remaining Values
     - Most Constraining Variable
