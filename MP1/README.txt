@@ -1,1 +1,1 @@
-Major topic: Search
+Search Algorithm 
